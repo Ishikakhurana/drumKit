@@ -2,7 +2,7 @@
 
 ## About
 It is an online DrumKit which can be used to play musical sounds.
-View [here] (https://ishikakhurana.github.io/drumKit/)
+View [here](https://ishikakhurana.github.io/drumKit/)
 ## Learning
 Undertook this peoject to learn about JavaScript and callbacks.
 My contribution to this existing project was adding sound on click as well as keypress.
